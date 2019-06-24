@@ -1,3 +1,4 @@
+![Travis CI Build Status](https://travis-ci.com/dpatel0114/react-props-movie-lab-atlanta-web-042219.svg?branch=master)
 # React Props Movie Lab
 
 ## Objectives
